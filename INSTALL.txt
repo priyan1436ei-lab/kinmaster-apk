@@ -1,0 +1,9 @@
+PRIYAN CUT v0.1.0 — development build
+
+1. Extract this ZIP.
+2. Copy PRIYAN-CUT-v0.1.0-debug.apk to an Android 8.0+ phone.
+3. Open the APK and approve installation for the file manager when Android asks.
+4. Open PRIYAN CUT, import a short video and test preview and export.
+5. Source code is in this folder; open it in Android Studio to modify/build.
+
+This is a core editor development build, not the completed full-feature product. Read BUILD_STATUS.md and FEATURE_MATRIX.md before relying on it.
