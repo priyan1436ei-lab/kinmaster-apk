@@ -64,4 +64,3 @@ java -cp /tmp/cut-tests dev.priyan.cut.ClipTest
 ## Privacy and licensing
 
 The app has no analytics and no Internet permission. Android media libraries have their own upstream licenses; review dependencies and notices before distribution. Imported content and fonts must be licensed by the person distributing their output. The debug APK is for development/testing; Play publication needs your release signing key, application identity, privacy disclosures and completed device QA.
-"# kinmaster-apk" 
